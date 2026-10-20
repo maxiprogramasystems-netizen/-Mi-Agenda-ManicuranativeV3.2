@@ -27,4 +27,4 @@ Para usar tu propia imagen, reemplaza `icon-192.png` (192×192) e `icon-512.png`
 ## Datos y privacidad
 Todo se guarda solo en el navegador del dispositivo (localStorage). La contraseña es un bloqueo de privacidad local, no cifra los datos.
 
-Versión 1.1
+Versión 1.3 — ícono de marca en estilo 3D glossy (calendario + frasco de esmalte)

@@ -1,4 +1,4 @@
-const V = 'mi-agenda-v1.1';
+const V = 'mi-agenda-v1.3';
 const A = ['./', 'index.html', 'manifest.json', 'icon-192.png', 'icon-512.png'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(V).then(c => c.addAll(A)).then(() => self.skipWaiting()));
